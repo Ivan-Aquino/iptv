@@ -289,3 +289,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=
 #EXTINF:-1 tvg-id="VH1ILoveReality.us" tvg-logo="https://i.imgur.com/0vSFVw6.png" group-title="Music",Pluto TV VH1 I Love Reality (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
+#EXTINF:-1 tvg-id="KUVNDT1.us" tvg-logo="https://i.imgur.com/PGJOFD4.png" group-title="Undefined",Univision DFW [Geo-blocked]
+https://unidfp-nlds138.global.ssl.fastly.net/nlds/univisionnow/univision_dal2/as/live/univision_dal2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Despierta [Geo-blocked]
+https://unidfp-nlds140.global.ssl.fastly.net/nlds/univisionnow/challenge28/as/live/challenge28_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Delicioso [Geo-blocked]
+https://unidfp-nlds139.global.ssl.fastly.net/nlds/univisionnow/cocina2/as/live/cocina2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fútbol [Geo-blocked]
+https://unidfp-nlds153.global.ssl.fastly.net/nlds/univisionnow/futbol/as/live/futbol_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Novelas [Geo-blocked]
+https://unidfp-nlds166.global.ssl.fastly.net/nlds/univisionnow/novelas2plist/as/live/novelas2plist_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN [Geo-blocked]
+https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="" group-title="Undefined",TeleOnce (WLII-DT) (1080p)
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-logo="https://i.imgur.com/Q7xrM2w.png" group-title="Undefined",WXTV-DT1 (Univision New York) [Geo-blocked]
+https://unidfp-nlds143.global.ssl.fastly.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Undefined",Univision East [Geo-blocked]
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="GalavisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Undefined",Galavisión East [Geo-blocked]
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="UniMasEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/512px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Undefined",UniMás East [Geo-blocked]
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="GalavisionWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Undefined",Galavision West [Geo-blocked]
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="KXLNDT1.us" tvg-logo="https://i.imgur.com/98NIM9S.png" group-title="Undefined",KXLN-DT1 (Univision West) [Geo-blocked]
+https://unidfp-nlds145.global.ssl.fastly.net/nlds/univisionnow/univision_hou2/as/live/univision_hou2_hd_pc.m3u8?t1=
