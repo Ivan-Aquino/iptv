@@ -299,7 +299,3 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx",Tlnovelas Europa (720p)
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,AZTECA 7 HD
-http://200.76.77.237/LIVE/H01/CANAL107/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,CANAL 5 HD
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
