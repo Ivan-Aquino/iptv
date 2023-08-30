@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MDSTRM-CDN-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=545600,RESOLUTION=426x240,CODECS="avc1.42001f,mp4a.40.2"
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/609ad46a7a441137107d7a81/publish/media_400.m3u8?aid=5fea09a071a9945deebf5f7c&uid=N5bL1MTKdw86ToqAFUG2n3BF2n8yXoaD&sid=acbhEmO1QGQLMKcZOSFQTZQQwT5JDMPR&pid=QSfKMyyVIUIILpiqay6GELErOmRut2hs&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1693519441677&ot=r-kaZW-O-SU9AgJuxU3CoA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=985600,RESOLUTION=640x360,CODECS="avc1.42001f,mp4a.40.2"
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/609ad46a7a441137107d7a81/publish/media_800.m3u8?aid=5fea09a071a9945deebf5f7c&uid=N5bL1MTKdw86ToqAFUG2n3BF2n8yXoaD&sid=acbhEmO1QGQLMKcZOSFQTZQQwT5JDMPR&pid=QSfKMyyVIUIILpiqay6GELErOmRut2hs&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1693519441677&ot=r-kaZW-O-SU9AgJuxU3CoA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=854x480,CODECS="avc1.42001f,mp4a.40.2"
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/609ad46a7a441137107d7a81/publish/media_1200.m3u8?aid=5fea09a071a9945deebf5f7c&uid=N5bL1MTKdw86ToqAFUG2n3BF2n8yXoaD&sid=acbhEmO1QGQLMKcZOSFQTZQQwT5JDMPR&pid=QSfKMyyVIUIILpiqay6GELErOmRut2hs&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1693519441677&ot=r-kaZW-O-SU9AgJuxU3CoA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=1755600,RESOLUTION=1280x720,CODECS="avc1.42001f,mp4a.40.2"
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&uid=N5bL1MTKdw86ToqAFUG2n3BF2n8yXoaD&sid=acbhEmO1QGQLMKcZOSFQTZQQwT5JDMPR&pid=QSfKMyyVIUIILpiqay6GELErOmRut2hs&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1693519441677&ot=r-kaZW-O-SU9AgJuxU3CoA&proto=https&pz=us
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
