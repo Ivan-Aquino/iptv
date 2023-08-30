@@ -83,23 +83,12 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="MultimediosSaltillo.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Multimedios",Multimedios Saltillo  
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Vevo; Musica",Vevo Hip Hop
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Vevo; Musica",Vevo Latino
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Vevo; Musica",Vevo Pop Europe
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="DegaTV.us" tvg-logo="https://i.ibb.co/ZTYvHyR/DEGA-TV-TELEPACK.jpg" group-title="Music",Dega TV (720p) [Not 24/7]
-https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/KU5WJ5PWG4IO7XT9UH0N/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Music",Latido Music (720p)
-https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV
+https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="Music",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BaebleMusic.us" tvg-logo="https://i.imgur.com/gWZSS8a.png" group-title="Music",Baeble Music (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Avang TV (720p)
-https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music (720p)
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",30A Music Channel
@@ -110,15 +99,17 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 tvg-id="TheRetroChannel.us" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="Music",The Retro Channel (1080p) [Not 24/7]
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="TechnoWarehouse.us" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="Music",Techno Warehouse (US) (1080p) [Not 24/7]
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 tvg-id="Classica.us" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Music",STIRR Classica (1080p)
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 tvg-id="RadioUTV.us" tvg-logo="https://i.imgur.com/HjZpC1V.png" group-title="Music",Radio U TV (720p) [Not 24/7]
 https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
-#EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-logo="https://i.ibb.co/1MhvJ3B/logork.png" group-title="Music",Radio Télé Kajou (480p)
-https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Azteca7
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/7db26933-89c8-4d6f-bf40-dce2069ea790:CHS/variant/993f6326354af989084062cfab46c32a/bandwidth/1623600.m3u8?uid=N5bL1MTKdw86ToqAFUG2n3BF2n8yXoaD&sid=acbhEmO1QGQLMKcZOSFQTZQQwT5JDMPR&pid=vPf8SZAwPFU7CgZmiijeDQ3WwYXN37q8&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1693520738859&ot=--gBdQUJPdR1Edtn4_oUjQ&es=us-b5-p-e-wo1.cdn.mdstrm.com&proto=https&pz=us&aid=5fea09a071a9945deebf5f7c
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Telemundo
+https://cl.imghosts.com/imgh/video/upload/ar_3:2,c_fill,w_680/videos/t/2023-03/101924/8fa28669b6097a9e11125ef6f4751d3f.mp4?v=1693435229-i2oDdB4XdTCFuSumIkDIQNcgY2vvfwwq7KdgmR5BbEw
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",Univision
+https://cl.imghosts.com/imgh/video/upload/ar_3:2,c_fill,w_680/videos/t/2023-03/101924/8fa28669b6097a9e11125ef6f4751d3f.mp4?v=1693435387-7BwHhhT2ynyAET-Q9r2B-85OCuuhz83urJXjmWmKB0I
+#EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music",cfsd
+https://cl.imghosts.com/imgh/video/upload/ar_3:2,c_fill,w_680/videos/t/2023-02/369403/fb8fe586da200c7f98225c89ae6da9ca.mp4?v=1693435477-2_GcWhXJVaSRkZYtxvP5gifm_zgauJSGSnJ3qgniFdk
